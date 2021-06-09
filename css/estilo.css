@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
+}
+.body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.logoblanco{
+    line-height: 60px;
+    background-color: #2D2D2E;
+}
+.slogan{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.home{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.personal{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.proyecto{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.contacto{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.tienda{
+    line-height: 64px;
+    color: white;
+    background-color: #2D2D2E;
+}
+.logocolor{
+    background-color: brown;
+    justify-content: 60px;
+    height: 544px;
+}
+.acerca{
+    background-color: darkcyan;
+    height: 613px;
+}
+.violetta{
+    background-color: darkcyan;
+    height: 613px;
+}
+.filosofia{
+    background-color: darkgoldenrod;
+    height: 100px; 
+}
+.lapiz{
+    background-color: darkcyan;
+    height: 240px; 
+}
+.reloj{
+    background-color: darkgrey;
+    height: 240px; 
+}
+.indio{
+    background-color: darkcyan;
+    height: 240px; 
+}
+.bombillo{
+    background-color: darkgrey;
+    height: 240px;
+}
+.sencillez{
+    background-color: darkgrey;
+    height: 70px;  
+}
+.historico{
+    background-color: darkcyan;
+    height: 70px;
+}
+.cultural{
+    background-color: darkgrey;
+    height: 70px;
+}
+.creatividad{
+    background-color: darkcyan;
+    height: 70px;
+}
+.texto1{
+    background-color: darkcyan;
+    height: 200px;
+}
+.texto2{
+    background-color: darkgrey;
+    height: 200px;
+}
+.texto3{
+    background-color: darkcyan;
+    height: 200px;
+}
+.texto4{
+    background-color: darkgrey;
+    height: 200px;
+}
+.personales{
+    background-color: darkgoldenrod;
+    height: 100px;
+}
+.luis{
+    background-color: darkgrey;
+    height: 240px;
+}
+.natalia{
+    background-color: darkcyan;
+    height: 240px;
+}
+.sofia{
+    background-color: darkgrey;
+    height: 240px;
+}
+.parrafo1{
+    background-color: darkcyan;
+    height: 200px;
+}
+.parrafo2{
+    background-color: darkgrey;
+    height: 200px;
+}
+.parrafo3{
+    background-color: darkcyan;
+    height: 200px;
+}
+.boton1{
+    background-color: darkgrey;
+    height: 70px;
+}
+.boton2{
+    background-color: darkcyan;
+    height: 70px;
+}
+.boton3{
+    background-color: darkgrey;
+    height: 70px;
+}
+.producto{
+    background-color: darkgoldenrod;
+    height: 100px;
+}
+.sinopsis{
+    background-color: darkgrey;
+    height: 440px;
+}
+.video{
+    background-color: darkcyan;
+    height: 440px;
+}
+.click1{
+    background-color: darkcyan;
+    height: 70px;
+}
+.click2{
+    background-color: darkgrey;
+    height: 70px;
+}
+.mujer{
+    background-color: darkgrey;
+    height: 613px;
+}
+.contactar{
+    background-color: darkcyan;
+    height: 613px;
+}
